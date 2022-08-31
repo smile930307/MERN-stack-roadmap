@@ -45,7 +45,7 @@ Different tags - html, title, body, paragraph, heading 1 to 6, anchor, break row
 
 Different attributes - style, href, rel, src,
 
-<a href="https://github.com/hemansnation/MERN-Stack-Roadmap-2022/tree/main/HTML/1_HTML%20basics">Code is Here </a>
+<a href="https://github.com/smile930307/MERN-stack-roadmap/tree/main/HTML/1_HTML%20basics">Code is Here </a>
 
 ##### Interview Questions
 
